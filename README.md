@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an electrical engineer working on sofwtare development.
+I'm an electrical engineer working on software development.
 <br>
 Currently learning:
 <div style="display: inline_block"><br>
