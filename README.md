@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm an electrical engineer working on sofwtare development
 <!--
 **brunamolinar/brunamolinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
